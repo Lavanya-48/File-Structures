@@ -3,12 +3,17 @@ Abstract
 
 Requirements
 •	Operating system:Windows 10.
+
 •	Any python IDE installed.
+
 • Programming language:Python.
 
 Step by step process:
 1.Click on the clone or download.
+
 2.The file will be in zip format,extract the file.
+
 3.Create a text file in your desktop containing some texts for backend to perform the operations.
+
 4.Run the code.
 
